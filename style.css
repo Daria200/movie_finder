@@ -75,6 +75,7 @@ img#moviePoster {
 #movieTitle,
 #movieOverview {
   padding: 32px;
+  width: 400px;
 }
 
 #playBtn {
